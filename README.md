@@ -8,6 +8,7 @@ APK: SOON<br/>
 <br/><br/>
 Try it, have fun and play around with the code.<br/><br/>
 
+<img src="https://user-images.githubusercontent.com/57795657/75181560-2c8db380-5747-11ea-9e5b-ea27c625e5a4.png" width="500" height = "500">
 <br/>
 <img src="https://user-images.githubusercontent.com/57795657/75181320-9e193200-5746-11ea-948c-aa20677a7927.png" width="500" height = "500">
 <br/>
